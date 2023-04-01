@@ -90,12 +90,6 @@ int romanToInt(std::string s) {
 int main()
 {
     std::string s;
-    /*std::cout << "Enter Roman number (or stop for end programm)" << std::endl;
-    std::cin >> s;
-
-    std::cout << romanToInt2(s) << std::endl;*/
-
-    //system("pause");
 
     std::cout << "Enter Roman number (or stop for end programm)" << std::endl;
     while (std::cin)
